@@ -1,7 +1,7 @@
 name: online_status_checker
 description: Online Status Checker is an easy to use widget that show an info page if the device is offline.
 version: 0.0.1
-homepage: https://github.com/akyunus/online-status-checker.git
+homepage: https://github.com/akyunus/online_status_checker.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
