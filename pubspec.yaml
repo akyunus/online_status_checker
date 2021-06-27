@@ -10,11 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  internet_connection_checker: ^0.0.1+1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  internet_connection_checker: ^0.0.1+1
+  
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
